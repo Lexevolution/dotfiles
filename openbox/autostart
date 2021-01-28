@@ -1,0 +1,5 @@
+nitrogen --set-scaled --random /home/alex/Pictures/Backgrounds/Desktop &
+picom --experimental-backends &
+thunar --daemon &
+tint2 -c ~/.config/tint2/status &
+tint2 -c ~/.config/tint2/dock &

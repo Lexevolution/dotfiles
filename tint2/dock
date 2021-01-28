@@ -1,0 +1,25 @@
+# Background 1
+rounded = 30
+border_width = 0
+background_color = #383838 100
+border_color = #000000 0
+
+# Panel
+panel_items = L
+panel_position = bottom center horizontal
+panel_size = 50% 60
+panel_shrink = 1
+mouse_effects = 1
+strut_policy = none
+autohide = 1
+autohide_hide_timeout = 1.0
+
+# Launcher
+launcher_background_id = 1
+launcher_apps_dir = ~/Desktop/Dock/
+launcher_padding = 20 3 5
+launcher_tooltip = 1
+
+# Tooltip
+tooltip_padding = 5 5
+tooltip_font_color = #ffffff 100
